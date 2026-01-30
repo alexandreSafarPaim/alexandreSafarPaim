@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Eu sou o Alexandre Paim e sou dev full-stack e tech-lead na Pentagrama Consultoria e Sistemas LTDA</h2>
+<h2 align="left">Olá 👋! Eu sou o Alexandre Paim e sou dev full-stack e tech-lead na Pentagrama Consultoria e Sistemas LTDA </h2>
 
 ###
 
